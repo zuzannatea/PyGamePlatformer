@@ -1,0 +1,14 @@
+* WASD, move
+* clicking on tile palette 
+* left-click, place 
+* left-click shift, copy tile
+* right-click, erase 
+* space, switch on/off grid 
+* g, toggle grid visibility
+* ctrl z shift, redo 
+* ctrl z, undo 
+* +, make brush bigger 
+* shift -, make brush smaller 
+* ctrl s shift, save as 
+* ctrl s, save default_map
+* t, autotile 
